@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Kajol\Desktop\Evon\Image-Processing-Lab-Final-master\DDA_LineDrawing\Source.cpp(26,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Kajol\Desktop\Evon\Image-Processing-Lab-Final-master\DDA_LineDrawing\Source.cpp(26,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Kajol\Desktop\Evon\Image-Processing-Lab-Final-master\DDA_LineDrawing\Source.cpp(35,17): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Kajol\Desktop\Evon\Image-Processing-Lab-Final-master\DDA_LineDrawing\Source.cpp(35,14): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  DDA_LineDrawing.vcxproj -> C:\Users\Kajol\Desktop\Evon\Image-Processing-Lab-Final-master\x64\Debug\DDA_LineDrawing.exe
